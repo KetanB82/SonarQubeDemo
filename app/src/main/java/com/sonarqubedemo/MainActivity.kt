@@ -25,9 +25,9 @@ class MainActivity : ComponentActivity() {
 
 
     }
-    public fun emptyMe(){
-
-    }
+//    public fun emptyMe(){
+//
+//    }
 
 }
 
